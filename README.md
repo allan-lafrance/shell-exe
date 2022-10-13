@@ -1,2 +1,0 @@
-# shell-exe
-Lafrance Allan
